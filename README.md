@@ -16,6 +16,29 @@ Feel free to perform a pull request to the project, implementing additional func
 
 </nav>
 
+### Applied Methodology
+
+#### Data Analysis
+
+We created the following structure based on the key attributes of each paper found on Academic Research.
+
+- Papers
+	- Article
+		- Title
+		- Publication
+			- Publish Date
+			- Conference/Journal
+			- Authors
+				- First Name
+				- Last Name
+				- Affiliation
+			- Fields of Study
+		- Abstract
+
+#### PHP implementation
+
+Using PHP [3] and operations with DOM [4], we captured only the necessary information and exported to JSON files.
+
 ### Linked Open Data
 
 Linked Data is about using the Web to connect related data that wasn't previously linked, or using the Web to lower the barriers to linking data currently linked using other methods. More specifically, Wikipedia defines Linked Data as "a term used to describe a recommended best practice for exposing, sharing, and connecting pieces of data, information, and knowledge on the Semantic Web using URIs and RDF."
@@ -44,3 +67,5 @@ Created by <a href="http://www.durvalpereira.com.br" target="_blank">Durval Pere
 
 [1] Informatics in Education, available at < https://en.wikipedia.org/wiki/Education_informatics > <br>
 [2] RDF - Semantic Web Standards, available at < https://www.w3.org/RDF/ > <br>
+[3] PHP, available at < http://php.net/ > <br>
+[4] DOM - Document Object Model, available at < https://www.w3.org/DOM/ > <br>
