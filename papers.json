@@ -1,0 +1,398 @@
+{
+	"papers": [{
+		"article": {
+			"title": "Education via modeling and simulation",
+			"publication": {
+				"published": "May 1st 2012",
+				"conference": "International Convention on Information and Communication Technology, Enectronics and Microeletronics",
+				"authors": {
+					"firstname": "Libusa",
+					"lastname": "Révészová",
+					"affiliation": "Information Technology University"
+				},
+				"fields of study": ["informatics", "unified modeling language", "systems modeling", "education", "computer science"]
+			},
+			"abstract": "In this paper we present our approach to establishing modeling and simulation as an important part of the managers' education at the Faculty of Economics, Technical University of Kosice. The paper deals with experience in teaching and it also discusses the body of knowledge and methods which have been implemented into the subjects - Informatics II and Economic Information System."
+		}
+	}, {
+		"article": {
+			"title": "Creation of projects as a modern education tool",
+			"publication": {
+				"published": "May 1st 2011",
+				"conference": "International Convention on Information and Communication Technology, Enectronics and Microeletronics",
+				"authors": {
+					"firstname": "Libusa",
+					"lastname": "Révészová",
+					"affiliation": "Technical University of Kosice"
+				},
+				"fields of study": ["informatics", "unified modeling language", "innovation", "information and communications technology", "information system", "education"]
+			},
+			"abstract": "The paper deals with experiences in teaching of the subjects Informatics I and Informatics II at the Faculty of economics, Technical University of Kosice. We are focused on innovation and improving the quality of education creating and using modern learning materials and methods."
+		}
+	}, {
+		"article": {
+			"title": "Teaching (with) robots in secondary schools: some new and not-so-new pedagogical problems",
+			"publication": {
+				"published": "Jan 1st 2005",
+				"conference": "International Conference on Advanced Learning Technologies",
+				"authors": [{
+					"firstname": "Vassilios",
+					"lastname": "Dagdidelis"
+				}, {
+					"firstname": "Maya",
+					"lastname": "Sartatzemi"
+				}, {
+					"firstname": "Katerina",
+					"lastname": "Kagani"
+				}],
+				"fields of study": ["education robotics", "informatics", "visual programming language", "software agent", "education", "programming language", "computer science"]
+			},
+			"abstract": "Research on the teaching of programming has shown that novice programmers often come up against significant difficulties in understanding programming concepts as well as in finding solutions to even elementary programming problems. One of the basic strategies which has been adopted in order to confront this problem, were programming languages and environments created with the specific aim to make both the teaching and learning processes of programming easier. A typical category of these types of environments consists of systems where the novice programmer manipulates real entities such as robots and automatic mechanisms. In this research we present a series of pilot lessons for an introduction to programming with the help of Lego Mindstorms and the visual programming environment ROBOLAB. The research was carried out on Greek secondary school students in the 9th and 10th grades. We present the initial results, which clearly show the advantages of this environment over the standard ones conventionally used, as well as some problems."
+		}
+	}, {
+		"article": {
+			"title": "The problem of creative education in information society",
+			"publication": {
+				"published": "Dec 31st 2009",
+				"journal": {
+					"name": "Procedia - Social and Behavioral Sciences",
+					"volume": "1",
+					"issue": "1",
+					"pages": "713-717"
+				},
+				"authors": [{
+					"firstname": "Vural",
+					"lastname": "Hosgorur"
+				}, {
+					"firstname": "Pinar",
+					"lastname": "Bilasa"
+				}],
+				"fields of study": ["creativity", "informatics", "data collection", "education", "statistics", "psychology", "mathematics"]
+			},
+			"abstract": "Individuals in an information society are expected to be active and far-sighted, to know and express themselves well, and to have a creative origin that can utilize environmental facilities and technology to the best extent. These wishes result in questioning educational systems and making innovations in teacher training and education programmes. The teachers and administrators that are going to realize the new understanding have to know themselves what creativity is and how to enhance it (Riza, 1999). In this study, it was tried to learn the perceptions of administrators and teachers as to the concept of creativity and their ideas on enhancing creativity. Original data has been collected with validity and reliability checked data collect instrument improved by Dundar 2003. Original data has analyzed with using statistical methods."
+		}
+	}, {
+		"article": {
+			"title": "An environment for teaching object-oriented programming: objectKarel",
+			"publication": {
+				"published": "Jan 1st 2003",
+				"conference": "International Conference on Advanced Learning Technologies",
+				"authors": [{
+					"firstname": "Maya",
+					"lastname": "Sartatzemi",
+					"affiliation": "University of Macedonia"
+				}, {
+					"firstname": "Stelios",
+					"lastname": "Xinogalos",
+					"affiliation": "University of Macedonia"
+				}, {
+					"firstname": "Vassilios",
+					"lastname": "Dagdidelis"
+				}],
+				"fields of study": ["program animation", "education robotics", "informatics", "computer animation", "writing", "object oriented programming", "visualization", "anime", "error detection and correction", "education", "programming language", "computer science"]
+			},
+			"abstract": "We propose a new integrated programming environment, objectKarel, for teaching the object-oriented programming paradigm. Its main features are: a series of e-lessons, a special kind of structure editor, runtime error detection, program animation and recordability of students' actions. Finally, we describe the results of a pilot use of objectKarel to teach object-oriented programming to undergraduate students."
+		}
+	}, {
+		"article": {
+			"title": "Teaching OOP with BlueJ: A Case Study",
+			"publication": {
+				"published": "Jan 1st 2006",
+				"conference": "International Conference on Advanced Learning Technologies",
+				"authors": [{
+					"firstname": "Stelios",
+					"lastname": "Xinogalos",
+					"affiliation": "University of Macedonia"
+				}, {
+					"firstname": "Maya",
+					"lastname": "Sartatzemi",
+				}, {
+					"firstname": "Vassilios",
+					"lastname": "Dagdidelis"
+				}, {
+					"firstname": "Georgios",
+					"lastname": "Evangelidis"
+				}],
+				"fields of study": ["informatics", "java", "computer aided software engineering", "object oriented programming", "education", "programming language", "computer science"]
+			},
+			"abstract": "In this paper we present our findings on teaching OOP with BlueJ in the context of a one-semester programming course. We organize our findings, i.e., the difficulties, the errors, and the misconceptions that students encounter, in two categories: (a) difficulties attributed to the special characteristics of OOP, and, (b) difficulties that may be attributed to the features of the programming environment"
+		}
+	}, {
+		"article": {
+			"title": "A Web-based Educational Application for Teaching of Programming: Student Modeling via Stereotypes",
+			"publication": {
+				"published": "Jan 1st 2006",
+				"conference": "International Conference on Advanced Learning Technologies",
+				"authors": [{
+					"firstname": "Maria",
+					"lastname": "Virvou",
+					"affiliation": "University of Piraeus"
+				}, {
+					"firstname": "Konstantina",
+					"lastname": "Chrysafiadi"
+				}],
+				"fields of study": ["informatics", "user modelling", "usability", "programming", "the internet", "information system", "application software", "education", "law", "management", "computer science"]
+			},
+			"abstract": "In this paper we describe a web-based educational application for individualised instruction on the domain of programming and algorithms. The application adapts to each user dynamically. This is achieved via the systems user model, which relies on stereotypes. The determination of the stereotypes is based on the knowledge level of the learner. The transition of a learner from one stereotype to another one reveals her/ his learning state. In particular, learners are modelled for all possible cognitive states with respect to their progress or non-progress, while they interact with the educational application."
+		}
+	}, {
+		"article": {
+			"title": "A teamwork-based approach to programming fundamentals with scheme, smalltalk & java",
+			"publication": {
+				"published": "May 15th 2008",
+				"conference": "International Conference on Software Engineering",
+				"authors": [{
+					"firstname": "Michele",
+					"lastname": "Lanza",
+					"affiliation": "University of Lugano"
+				}, {
+					"firstname": "Amy",
+					"lastname": "L. Murphy"
+				}, {
+					"firstname": "Romain",
+					"lastname": "Robbes",
+					"affiliation": "University of Lugano"
+				}, {
+					"firstname": "Mircea",
+					"lastname": "Lungu",
+					"affiliation": "University of Lugano"
+				}, {
+					"firstname": "Paolo",
+					"lastname": "Bonzini",
+					"affiliation": "University of Lugano"
+				}],
+				"fields of study": ["scheme", "games", "informatics", "java", "natural language", "programming", "education", "programming language", "computer science"]
+			},
+			"abstract": "In October 2004 the University of Lugano in southern Switzerland established a new faculty of informatics. Its founding principles are innovation in teaching and faculty participation in the research community. With respect to teaching, students spend mornings attending lectures and afternoons in an Atelier designed to support interaction both among students and with the instructors. In teaching the first year "Programming Fundamentals" courses, we took advantage of the clean slate nature of the faculty to introduce innovative teaching elements. The novel aspects include our use of Scheme, Smalltalk, and Java, our combination of individual, pair and group projects and the integration of expert lectures to introduce useful, but slightly orthogonal elements at key points in the semester. Our very positive experience is reported along with a discussion of aspects to improve in the future."
+		}
+	}, {
+		"article": {
+			"title": "Creation and use of screencasts in higher education",
+			"publication": {
+				"published": "May 1st 2012",
+				"conference": "International Conference on Information and Communication Technology, Electronics and Microeletronics",
+				"authors": [{
+					"firstname": "Sanja",
+					"lastname": "Mohorovicic",
+					"affiliation": "University of Rijeka"
+				}],
+				"fields of study": ["further education", "recording", "informatics", "publishing", "higher education", "planning", "programming", "education", "law", "management"]
+			},
+			"abstract": "This paper researches potential uses of the screencasts in higher education. Screencasts can be applied in various courses, not only in informatics. Several examples from teaching practice are mentioned. Two aspects of producing screencasts in higher education are elaborated: when screencast is produced by the teacher and by the student. Step by step procedure of screencast creation is explained - from preparation to publishing and sharing. Most popular screencasting tools are mentioned and compared."
+		}
+	}, {
+		"article": {
+			"title": "X-compiler: yet another integrated novice programming environment",
+			"publication": {
+				"published": "Jan 1st 2001",
+				"conference": "International Conference on Advanced Learning Technologies",
+				"authors": [{
+					"firstname": "Georgios",
+					"lastname": "Evangelidis",
+					"affiliation": "University of Macedonia"
+				}, {
+					"firstname": "Vassilios",
+					"lastname": "Dagdidelis"
+				}, {
+					"firstname": "Maria",
+					"lastname": "Sartatzemi",
+				}, {
+					"firstname": "Vassilios",
+					"lastname": "Efopoulos"
+				}],
+				"fields of study": ["pascal", "debugging", "informatics", "source code", "information system", "education", "programming language", "computer science"]
+			},
+			"abstract": "The paper presents a simple programming language, called X, and an educational programming environment, called X-Compiler, designed to introduce students to programming. X-Compiler can be used to edit, compile, debug and run programs written in X, a subset of Pascal. X-Compiler could be didactically interesting because of the following features: (a) users can watch the intermediate steps of the execution of a program: source code compilation, correspondence of source and pseudo-assembly code during execution, register content, and intermediate values of user and temporary system variables; also, they can edit the produced pseudo-assembly code and re-execute it, (b) there are many detailed and explanatory messages that can guide novice programmers when debugging their programs and, in general, help them write better programs."
+		}
+	}, {
+		"article": {
+			"title": "Designing a Person-Centered Learning Support System",
+			"publication": {
+				"published": "Jul 1st 2008",
+				"conference": "International Conference on Advanced Learning Technologies",
+				"authors": [{
+					"firstname": "Maria",
+					"lastname": "Kyprianidou",
+					"affiliation": "Aristotle University of Thessaloniki"
+				}, {
+					"firstname": "Stavros",
+					"lastname": "Demetriadis",
+					"affiliation": "Aristotle University of Thessaloniki"
+				}, {
+					"firstname": "Andreas",
+					"lastname": "S. Pombortsis",
+					"affiliation": "Aristotle University of Thessaloniki"
+				}],
+				"fields of study": ["informatics", "reflection", "higher education", "system testing", "the internet", "education", "law", "computer science"]
+			},
+			"abstract": "In this work we present the early design steps of a system for supporting person-centered learning (PCL), focusing on the process of transforming PCL principles into system specifications. Although person centered learning has gained significant attention in higher education, it is not clear how the instructor can be efficiently supported to manage the additional workload emerging from the effort to promote PCL and address individual studentspsila learning traits and preferences. To cope with this issue we argue that specific technology systems can be built for supporting students and instructors in implementing various PCL-related tasks. In our approach we develop a pedagogical model based on common PCL principles, which will be supported by a Web-based system and will be used to help students and teachers in tasks like: identifying learning and teaching preferences, increasing their meta cognitive awareness, defining homogeneous or heterogeneous workgroups and negotiating their preferences."
+		}
+	}, {
+		"article": {
+			"title": "Using computer history as innovation for computer organization subjects",
+			"publication": {
+				"published": "Jun 1st 2015",
+				"conference": "Information Technology Based Higher Education and Training",
+				"authors": [{
+					"firstname": "Xavier",
+					"lastname": "Molero",
+					"affiliation": "Polytechnic University of Valencia"
+				}, {
+					"firstname": "Ana",
+					"lastname": "Pont",
+					"affiliation": "Polytechnic University of Valencia"
+				}, {
+					"firstname": "Antonio",
+					"lastname": "Robles",
+					"affiliation": "Polytechnic University of Valencia"
+				}, {
+					"firstname": "Milagros",
+					"lastname": "Martínez",
+					"affiliation": "Polytechnic University of Valencia"
+				}],
+				"fields of study": ["assembly language", "informatics", "assembly", "organization", "education", "computer science"]
+			},
+			"abstract": "One of the main difficulties when teaching basic subjects related with computer fundamentals and organization to computer engineering undergraduate students is to provide an applied vision close to the current real word in order to motivate and encourage them to study this subject. Learning about the basic principles about how computers work interaction between main hardware components and fundamental assembly language programming has currently become of minor interest for our students because of the use of many simplifications and abstractions that are far from the technological reality of today."
+		}
+	}, {
+		"article": {
+			"title": "Towards the Enhancement of the Learning Process with Different Types of Case Based Activities",
+			"publication": {
+				"published": "Jul 1st 2009",
+				"conference": "International Conference on Advanced Learning Technologies",
+				"authors": [{
+					"firstname": "Maria",
+					"lastname": "Boubouka",
+					"affiliation": "National and Kapodistrian University of Athens"
+				}, {
+					"firstname": "Ilias",
+					"lastname": "Vergini"
+				}, {
+					"firstname": "Maria",
+					"lastname": "Grigoriadou"
+				}, {
+					"firstname": "I.",
+					"lastname": "Zafiri"
+				}],
+				"fields of study": ["informatics", "concrete", "process design", "empirical research", "the internet", "computational model", "intelligent decision support system", "education", "law", "artificial intelligence", "computer science"]
+			},
+			"abstract": "The use of authentic problems in the form of Cases in a variety of teaching activities is a well established method aiming to foster the development of problem solving skills. Although a large number of case based educational systems are available, none of them supports all the different types of case based activities. In this paper we present an empirical study, conducted in order to establish the design of a web-based educational environment, referred to as CASTLE, aiming to support the creation and elaboration of Case activities of all types."
+		}
+	}, {
+		"article": {
+			"title": "STEM Integration with informatics",
+			"publication": {
+				"published": "Apr 2nd 2011",
+				"conference": "India Software Engineering Conference",
+				"authors": [{
+					"firstname": "Stephen",
+					"lastname": "J. Zilora",
+					"affiliation": "Rochester Institute of Technology"
+				}],
+				"fields of study": ["mashup", "xml", "informatics", "curriculum", "education", "world wide web", "computer science"]
+			}
+		}
+	}, {
+		"article": {
+			"title": "Intelligent learning environment: building hybrid system from standard application and Web application",
+			"publication": {
+				"published": "Jan 1st 2005",
+				"conference": "International Conference on Advanced Learning Technologies",
+				"authors": [{
+					"firstname": "Keh-Siong",
+					"lastname": "Chee",
+					"affiliation": "Multimedia University"
+				}, {
+					"firstname": "Somnuk",
+					"lastname": "Phon-Amnuaisuk",
+					"affiliation": "Multimedia University"
+				}],
+				"fields of study": ["music", "informatics", "hybrid system", "web application", "education", "law", "artificial intelligence", "computer science"]
+			},
+			"abstract": "In this paper, we explore the idea of intelligent learning environment (ILE) by building a system for teaching and learning music in a Web-based environment. Our system is a framework that utilises existing Web architecture. Instead of using a standard Web browser as our client tool, we are going to develop our own. By following this, some design issues regarding the shifting and their solutions are addressed. In a nutshell, this environment allows us to gain more control in monitoring students' learning activities within a single environment while keeping instructors away from a bundle of computer codes."
+		}
+	}, {
+		"article": {
+			"title": "WIPE - pilot testing and comparative evaluation",
+			"publication": {
+				"published": "Jan 1st 2005",
+				"conference": "International Conference on Advanced Learning Technologies",
+				"authors": [{
+					"firstname": "Vassilios",
+					"lastname": "Efopoulos"
+				}, {
+					"firstname": "Georgios",
+					"lastname": "Evangelidis"
+				}, {
+					"firstname": "Vassilios",
+					"lastname": "Dagdidelis"
+				}],
+				"fields of study": ["informatics", "graphical user interface", "the internet", "software testing", "education", "computer science"]
+			},
+			"abstract": "This paper discusses the pilot testing and evaluation of a database-driven Web-based programming environment called WIPE (Web integrated programming environment). WIPE is a teaching tool for secondary education students that are introduced to the principles of programming. The programming environment was used in secondary schools in Greece and the results of its evaluation demonstrate that it successfully deals with the difficulties novices meet."
+		}
+	}, {
+		"article": {
+			"title": "Design of Educational Software to Integrate Kids with Hypoacusia in Preschool",
+			"publication": {
+				"published": "Jan 1st 2009",
+				"conference": "Mexican International Conference on Computer Science",
+				"authors": [{
+					"firstname": "Vargas",
+					"lastname": "Cerdán"
+				}, {
+					"firstname": "Mª",
+					"lastname": "Dolores"
+				}, {
+					"firstname": "Rojano",
+					"lastname": "Cáceres"
+				}, {
+					"firstname": "García",
+					"lastname": "Gaona"
+				}, {
+					"firstname": "Ana",
+					"lastname": "Cristina SIlva da [Unesp] Rosa"
+				}],
+				"fields of study": ["cued speech", "educational software", "informatics", "graphics", "speech", "visual system", "prototype", "education", "computer science"]
+			},
+			"abstract": "This paper presents the design of Educational Software for children between the range of three to five years old studying the preschool level and who presents a problem of audition. Preschool children are taught through gaming and exploring mechanisms, for that reason this elements had been taken in consideration to make this software attractive to them. Individuals who are deaf require visual or signaling system in order to achieve the transmission and reception of ideas. Both mechanisms have been considered in the implementation through the use of graphics that let the student associate ideas with vocabulary, and the use of cued speech as the mechanism of communicating information. This software is not only for helping deaf children to learn about their environment, but also this tool will help with the integration with the rest of the classmates through the teaching of cued speech to both kind of students. Because the software implies pedagogical concepts an extended methodology for developing educational software has been followed, as result of this process is showed through a prototype. This product also had required the interaction between different experts in the fields of Informatics and Pedagogy in order to achieve the purposes of integrating the children to the community, fulfill educational needs, and assure the usability of the software."
+		}
+	}, {
+		"article": {
+			"title": "Avaliação de uma disciplina de informática por graduandos de enfermagem",
+			"publication": {
+				"published": "Jul 1st 1995",
+				"journal": {
+					"name": "Revista Latino-americana De Enfermagem",
+					"volume": "3",
+					"issue": "2",
+					"pages": "69-82"
+				},
+				"authors": [{
+					"firstname": "Margarita",
+					"lastname": "Antonia Villar Luis",
+					"affiliation": "University of Sao Paulo"
+				}, {
+					"firstname": "Fernando",
+					"lastname": "Antonio Moala",
+					"affiliation": "University of Sao Paulo"
+				}, {
+					"firstname": "Yolanda",
+					"lastname": "Dora Martinez Évora",
+					"affiliation": "University of Sao Paulo"
+				}, {
+					"firstname": "Carmen",
+					"lastname": "Gracinda Silvan Scochi",
+					"affiliation": "University of Sao Paulo"
+				}, {
+					"firstname": "Rosalina",
+					"lastname": "Aparecida Partezani Rodrigues",
+					"affiliation": "University of Sao Paulo"
+				}],
+				"fields of study": ["informatics", "education", "nursing", "medicine"]
+			},
+			"abstract": "Este estudo teve como objetivo investigar a opiniao dos alunos do primeiro ano de graduacao em Enfermagem sobre a disciplina Informatica Aplicada a Saude. Os dados foram coletados atraves de um questionario com questoes abertas e fechadas aplicadas em tres anos consecutivos (1989, 1990, 1991). Os resultados mostraram que e importante a permanencia da disciplina no Curso de Graduacao em Enfermagem. As expectativas dos alunos relacionaram-se com a necessidade de familiarizarem-se com o computador. As criticas mencionadas foram quanto a necessidade de maior tempo e mais equipamentos para efetivar o processo de aprendizagem. UNITERMOS: enfermagem, ensino, informatica"
+		}
+	}, {
+
+
