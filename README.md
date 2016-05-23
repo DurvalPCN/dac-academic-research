@@ -20,7 +20,7 @@ Feel free to perform a pull request to the project, implementing additional func
 
 Linked Data is about using the Web to connect related data that wasn't previously linked, or using the Web to lower the barriers to linking data currently linked using other methods. More specifically, Wikipedia defines Linked Data as "a term used to describe a recommended best practice for exposing, sharing, and connecting pieces of data, information, and knowledge on the Semantic Web using URIs and RDF."
 
-You can learn more about Linked Open Data in the <a href="http://novatec.com.br/livros/dadosabertos/" target="_blank">book of same name</a>, written by <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4265484E4" target="_blank">Professor Ig Ibert Bittencourt</a> and <a href="http://isotani.caed-lab.com/" target="_blank">Professor Seiji Isotani</a>
+You can learn more about Linked Open Data in the <a href="http://novatec.com.br/livros/dadosabertos/" target="_blank">book of same name</a>, written by <a href="http://buscatextual.cnpq.br/buscatextual/visualizacv.do?metodo=apresentar&id=K4265484E4" target="_blank">Professor Ig Ibert Bittencourt</a> and <a href="http://isotani.caed-lab.com/" target="_blank">Professor Seiji Isotani</a>.
 
 ### Microsoft Academic Research
 
