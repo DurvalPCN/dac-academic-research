@@ -6,8 +6,11 @@ This project was made to be graded at the course of <a href="http://novatec.com.
 
 In the source files, you can find:
 
-- `papersLinks.json` extracted the links used to absorve papers data
-- `papers.json` containing the key data for each paper analysed
+- folder `extracted-data` containing:
+	- `papersLinks.json` extracted the links used to absorve papers data
+	- `papers.json` containing the key data for each paper analysed
+- folder `php-jquery-extraction` containing:
+	- `extraction.php`
 
 Feel free to perform a pull request to the project, implementing additional functions or improving some of the existents.
 
