@@ -5,7 +5,7 @@ ini_set('max_execution_time', 1200);
 
 $authors = array();
 
- if (($handle = fopen("lista_autores.csv", "r")) !== FALSE) {
+ if (($handle = fopen("authors.csv", "r")) !== FALSE) {
      while (($data = fgetcsv($handle, 1000, ",")) !== FALSE) {
          $num = count($data)-1;
          //echo "<p> $num campso na linha $row: <br /></p>\n";

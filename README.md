@@ -7,10 +7,11 @@ This project was made to be graded at the course of <a href="http://novatec.com.
 In the source files, you can find:
 
 - folder `extracted-data` containing:
-	- `papersLinks.json` extracted the links used to absorve papers data
-	- `papers.json` containing the key data for each paper analysed
+	- `papers-count10-authors.json` containing the data for each paper analysed, maximum 10 per author (you can see list of authors used at `php-api-extraction/authors.csv` )
 - folder `php-jquery-extraction` containing:
-	- `extraction.php`
+	- `extraction.php` containing the code used (along with Academic Research API) to extract the data
+	- `authors.csv` containing the list of authors to be searched in the Academic Research
+- folder `google-refine-project.dac-academic-research` containing the exported project from OpenRefine
 
 Feel free to perform a pull request to the project, implementing additional functions or improving some of the existents.
 
