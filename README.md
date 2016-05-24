@@ -8,10 +8,13 @@ In the source files, you can find:
 
 - folder `extracted-data` containing:
 	- `papers-count10-authors.json` containing the data for each paper analysed, maximum 10 per author
+- folder `google-refine-project.dac-academic-research` containing the exported project from OpenRefine
+- folder `ontology` containing:
+	- `dac.owl` the ontology created for the project
 - folder `php-jquery-extraction` containing:
 	- `extraction.php` containing the code used (along with Academic Research API) to extract the data
 	- `authors.csv` containing the list of authors to be searched in the Academic Research
-- folder `google-refine-project.dac-academic-research` containing the exported project from OpenRefine
+- `academic-research-exported-data.rdf` containing the data properly exported in RDF
 
 Feel free to perform a pull request to the project, implementing additional functions or improving some of the existents.
 
@@ -25,7 +28,7 @@ Using PHP [3] and Microsoft Academic Knowledge API [4], we captured only the nec
 
 #### Refining and parsing to RDF
 
-< to do >
+After that, we used Open Refine, importing the JSON and treating the data properly. It was necessary to download and install the RDF extension (see more detail about the process in [5]) to work with RDF. With the extension installed, we imported the ontology created for the project and structured the RDF skeleton according to it. After complete the structure organization, the RDF was finally imported.
 
 ### Linked Open Data
 
@@ -57,3 +60,5 @@ Created by <a href="http://www.durvalpereira.com.br" target="_blank">Durval Pere
 [2] RDF - Semantic Web Standards, available at < https://www.w3.org/RDF/ > <br>
 [3] PHP, available at < http://php.net/ > <br>
 [4] Microsoft Academic Knowledge API, available at < https://www.microsoft.com/cognitive-services/en-us/academic-knowledge-api/documentation/overview > <br>
+[5] Google Refine - RDF Extension, available at < https://github.com/fadmaa/grefine-rdf-extension/downloads > <br>
+[6] OWL - Ontology Web Language, avaiable at < https://pt.wikipedia.org/wiki/OWL > <br>
