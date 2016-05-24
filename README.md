@@ -7,7 +7,7 @@ This project was made to be graded at the course of <a href="http://novatec.com.
 In the source files, you can find:
 
 - folder `extracted-data` containing:
-	- `papers-count10-authors.json` containing the data for each paper analysed, maximum 10 per author (you can see list of authors used at `php-api-extraction/authors.csv` )
+	- `papers-count10-authors.json` containing the data for each paper analysed, maximum 10 per author
 - folder `php-jquery-extraction` containing:
 	- `extraction.php` containing the code used (along with Academic Research API) to extract the data
 	- `authors.csv` containing the list of authors to be searched in the Academic Research
@@ -19,26 +19,13 @@ Feel free to perform a pull request to the project, implementing additional func
 
 ### Applied Methodology
 
-#### Data Analysis
-
-We created the following structure based on the key attributes of each paper found on Academic Research.
-
-- Papers
-	- Article
-		- Title
-		- Publication
-			- Publish Date
-			- Conference/Journal
-			- Authors
-				- First Name
-				- Last Name
-				- Affiliation
-			- Fields of Study
-		- Abstract
-
 #### PHP implementation
 
-Using PHP [3] and operations with DOM [4], we captured only the necessary information and exported to JSON files.
+Using PHP [3] and Microsoft Academic Knowledge API [4], we captured only the necessary information for the results available when authors were searched at the database, exporting later these results to a single JSON file.
+
+#### Refining and parsing to RDF
+
+< to do >
 
 ### Linked Open Data
 
@@ -69,4 +56,4 @@ Created by <a href="http://www.durvalpereira.com.br" target="_blank">Durval Pere
 [1] Informatics in Education, available at < https://en.wikipedia.org/wiki/Education_informatics > <br>
 [2] RDF - Semantic Web Standards, available at < https://www.w3.org/RDF/ > <br>
 [3] PHP, available at < http://php.net/ > <br>
-[4] DOM - Document Object Model, available at < https://www.w3.org/DOM/ > <br>
+[4] Microsoft Academic Knowledge API, available at < https://www.microsoft.com/cognitive-services/en-us/academic-knowledge-api/documentation/overview > <br>
