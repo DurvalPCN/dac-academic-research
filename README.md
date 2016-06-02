@@ -14,6 +14,8 @@ In the source files, you can find:
 - folder `php-jquery-extraction` containing:
 	- `extraction.php` containing the code used (along with Academic Research API) to extract the data
 	- `authors.csv` containing the list of authors to be searched in the Academic Research
+- folder `screenshots` containing:
+	- `rdf-skeleton.jpg` an screenshot of the RDF skeleton at Google Refine
 - `academic-research-exported-data.rdf` containing the data properly exported in RDF
 
 Feel free to perform a pull request to the project, implementing additional functions or improving some of the existents.
@@ -54,7 +56,8 @@ You can see more about it clicking <a href='http://openrefine.org/' target='_bla
 Created by <a href="http://www.durvalpereira.com.br" target="_blank">Durval Pereira</a>. Contact me  <a href="mailto:contato@durvalpereira.com.br">here</a>.<br>
 <a href="http://bit.ly/durvallattes" target="_blank">Lattes</a> <a href="https://www.linkedin.com/in/durvalpereira">LinkedIn</a> <a href="http://twitter.com/DurvalPCN">Twitter</a> <a href="http://www.facebook.com/durvalpereiracn">Facebook</a> <a href="http://plus.google.com/+DurvalPereiraCesar">Google+</a>
 
-Assisted by <a href='https://github.com/Andrevtlima' target='_blank'>André Lima</a>
+Assisted by <a href='https://github.com/Andrevtlima' target='_blank'>André Lima</a><br>
+Assisted by Josmário Albuquerque<br>
 
 ### References
 
